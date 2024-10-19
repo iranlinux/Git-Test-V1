@@ -1,2 +1,2 @@
 We want to ues git stash
-EDITED NOW
+MODIFIED
