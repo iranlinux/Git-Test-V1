@@ -5,3 +5,8 @@ Just added new commit
 
 A new commit on github repo 
 Do you want to use git diff? , Here we go
+
+
+-------
+
+Wanna to see what's the git stash?
